@@ -1,6 +1,5 @@
 package peaksoft.englishtestjava16.dto;
 
-import lombok.Data;
 
 
 public class NewTestRequest {
